@@ -1,0 +1,274 @@
+blast,Unnamed: 1,distance,ppv,frequency,aop,Blast No.,Date of blast,Location of blast ,Hole dia. [mm],Hole depth [m],No. of holes,Avg. Burden [m],Avg.Spacing [m],No. of deck,Avg. top stemming length [m],Avg. charge/hole [kg],Total charge [kg],Max.charge delay [kg],Explosive type
+B1,,150,9.16,44.3,120,B1,YYYY-00-DD 00:00:SS,"2nd bench No.208, Pit-1",115,5.0-5.5,21,4,5.5,Nil,2.5,24.01,504.25,24.01,ANFO with Emulboost and Nonel initiation system
+B1,,200,4.39,24.9,115.4,B1,YYYY-00-DD 00:00:SS,"2nd bench No.208, Pit-1",115,5.0-5.5,21,4,5.5,Nil,2.5,24.01,504.25,24.01,ANFO with Emulboost and Nonel initiation system
+B1,,240,3.27,27.9,125.6,B1,YYYY-00-DD 00:00:SS,"2nd bench No.208, Pit-1",115,5.0-5.5,21,4,5.5,Nil,2.5,24.01,504.25,24.01,ANFO with Emulboost and Nonel initiation system
+B1,,290,3.048,85.3,122,B1,YYYY-00-DD 00:00:SS,"2nd bench No.208, Pit-1",115,5.0-5.5,21,4,5.5,Nil,2.5,24.01,504.25,24.01,ANFO with Emulboost and Nonel initiation system
+B1,,340,2.74,142,122.8,B1,YYYY-00-DD 00:00:SS,"2nd bench No.208, Pit-1",115,5.0-5.5,21,4,5.5,Nil,2.5,24.01,504.25,24.01,ANFO with Emulboost and Nonel initiation system
+B2,,215,6.63,180,111.2,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B2,,250,6.43,41.1,114,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B2,,300,4.572,93,110,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B2,,215,9.12,32.4,123.6,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B2,,215,3.13,50.3,109.5,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B2,,265,2.37,73.1,119,B2,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,2,4.5,7,Nil,2.5,43,86,43,ANFO with Kelvex P and Nonel initiation system
+B3,,215,8.23,115,110.2,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B3,,250,7.59,46.4,114,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B3,,300,5.588,42.6,110,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B3,,215,11.9,43.9,118.6,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B3,,215,3.03,55.5,114,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B3,,265,3.61,85.3,118,B3,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,3,4.5,7,Nil,2.5,43,129,43,ANFO with Kelvex P and Nonel initiation system
+B4,,150,7.97,45,119.1,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,200,6.477,35.3,114,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,250,3.4,16.8,111.8,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,300,3.26,17.6,111,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,250,7.04,26,118.8,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,300,4.27,42.6,117,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B4,,250,3.84,28.8,122.3,B4,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,4,4.5,7.5,One of 1.0 m,2.5,53.12,212.49,53.12,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B5,,150,5.4,99.1,115.6,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,200,4.191,24.9,112,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,250,3.23,64,109,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,300,2.13,24.8,109.2,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,250,4.99,122,116.9,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,300,2.32,36.5,114,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B5,,250,3.11,30.8,115.6,B5,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,3,4.5,7.5,Nil,2.5,65.33,196,65.33,ANFO with Kelvex P and Nonel initiation system
+B6,,250,4.06,28.8,124.1,B6,YYYY-00-DD 00:00:SS,"3rd bench No.3001, Pit-2",115,8.0&10.0,10,4.5,7,One of 1.0 m,2.5,46.15,461.51,92.3,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B6,,300,3,27.9,119.4,B6,YYYY-00-DD 00:00:SS,"3rd bench No.3001, Pit-2",115,8.0&10.0,10,4.5,7,One of 1.0 m,2.5,46.15,461.51,92.3,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B6,,350,2.25,18,118.1,B6,YYYY-00-DD 00:00:SS,"3rd bench No.3001, Pit-2",115,8.0&10.0,10,4.5,7,One of 1.0 m,2.5,46.15,461.51,92.3,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B6,,400,2.73,11.4,116.7,B6,YYYY-00-DD 00:00:SS,"3rd bench No.3001, Pit-2",115,8.0&10.0,10,4.5,7,One of 1.0 m,2.5,46.15,461.51,92.3,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B6,,430,3.175,11.7,117,B6,YYYY-00-DD 00:00:SS,"3rd bench No.3001, Pit-2",115,8.0&10.0,10,4.5,7,One of 1.0 m,2.5,46.15,461.51,92.3,ANFO with Kelvex P and Nonel initiation system with wooden spacer of 1.0 m
+B7,,150,10.8,34.8,126.4,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B7,,210,9.93,58.4,120.3,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B7,,300,6.223,17,118,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B7,,375,3.28,29.1,115,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B7,,365,3.51,26.9,130,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B7,,415,2.12,25.6,126,B7,YYYY-00-DD 00:00:SS,"2nd bench No.2001, Pit-2",115,9.0-9.5,6,4,6,Nil,2.5,51.33,308,51.33,ANFO with Kelvex P and Nonel initiation system
+B8,,450,1.87,15.5,109.5,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B8,,485,1.64,13.9,104.9,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B8,,540,1.18,17.9,107.5,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B8,,580,<0.8, , ,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B8,,550,1.56,23.2,115,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B8,,585,1.11,21.3,114,B8,YYYY-00-DD 00:00:SS,"1st bench No.1002, Pit-2",115,7.5,14,4.5,7,Nil,3,38.11,533.5,38.11,ANFO with Emulboost and Nonel initiation system
+B9,,162,13.8,41.9,119.2,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,210,8.92,36.8,120.8,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,259,4.572,23,118,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,307,3.75,33.1,116.3,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,358,1.65,17,116,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,242,10.2,35.5,116.9,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B9,,291,7.84,46.5,114,B9,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,143,10.7,54,112.8,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,192,5.4,23.3,115.6,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,242,3.937,22.9,112,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,291,2.38,17.4,110.2,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,341,1.6,18.9,110,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,254,5.24,85.3,108,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B10,,302,5.03,36.5,112,B10,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,8,4,4.5,7,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,150,9.48,40.5,116.3,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,200,3.78,38.5,114,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,250,2.921,16.6,110,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,300,2.07,16.6,108,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,350,1.43,17.6,106,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,281,3.04,64,115,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B11,,327,2.7,22.4,116.9,B11,YYYY-00-DD 00:00:SS,"3rd bench No.306, Pit-1",115,7.5-8.0,4,3.5,6,Nil,2.5,40,160,40,ANFO with Kelvex P and Nonel initiation system
+B12,,155,7.94,52.4,115.6,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B12,,205,4.25,38.5,116.9,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B12,,306,1.77,17.1,109.9,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B12,,355,1.36,18.9,110,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B12,,305,3.03,30.1,116.9,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B12,,353,2.65,85.3,114,B12,YYYY-00-DD 00:00:SS,"2nd bench No.206, Pit-1",115,10.5,5,4.5,7.5,Nil,3,58.65,293.25,59,ANFO with Kelvex P and Nonel initiation system
+B13,,298,2.63,37,114.2,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B13,,340,2.26,57,115,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B13,,400,2.11,30,112,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B13,,445,1.77,28,110.2,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B13,,345,3.37,24.4,119,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B13,,425,1.37,17.1,108,B13,YYYY-00-DD 00:00:SS,"Bench  No. 4001, Pit-2",115,5.5,9,4,4,Nil,3,21.5,193.5,21.5,Conventional blasting pattern
+B14,,160,16.7,32,117.9,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B14,,210,7.87,30,116.9,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B14,,272,7.14,47,115.6,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B14,,312,5.35,16,112,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B14,,327,6.43,18.3,116,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B14,,277,3.99,24.4,114,B14,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,One of 0.5 m,2.5,49,196,49,Air deck blasting with Detonating Fuse
+B15,,150,19.8,30,117.6,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B15,,200,11.7,57,115.7,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B15,,260,9.62,51,115.6,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B15,,300,5.75,51,112.6,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B15,,300,6.45,25.6,117,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B15,,300,2.87,23.3,116,B15,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,8.5,4,4,6.5,Nil,3,49,196,49,Conventional blasting pattern
+B16,,145,12,30,113.5,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B16,,185,11.1,30,113.1,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B16,,247,11,47,112,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B16,,287,5.78,18,109.2,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B16,,240,8.64,26.9,117,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B16,,360,3.38,19.7,110,B16,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,150,8.06,39,118.8,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,190,6.18,43,112,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,247,5.51,39,116.4,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,287,2.97,26,112.8,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,215,7.25,36.6,115,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B17,,385,1.36,22.3,108,B17,YYYY-00-DD 00:00:SS,"Bench  No. 2001, Pit-2",115,7.5,3,4,6.5,Nil,2.5,45,133.82,45,Conventional blasting pattern
+B18,,822,1.23,14,114,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B18,,847,1.1,23,114,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B18,,880,0.68,24,111.2,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B18,,910,<0.5, , ,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B18,,605,2.23,22.3,112,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B18,,985,<0.5, , ,B18,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,5,4,6,Nil,2.5,45.75,228.75,45.75,Blasting with reduced burden and spacing
+B19,,837,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B19,,862,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B19,,895,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B19,,927,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B19,,623,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B19,,1000,<0.5, , ,B19,YYYY-00-DD 00:00:SS,"Bench  No. 405, Pit-1",115,8,7,4,6,Nil,2.5,45.75,320.25,45.75,Blasting with reduced burden and spacing
+B20,,150,9.72,19,114,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B20,,200,8.77,39,114.2,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B20,,250,6.52,16,112,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B20,,300,2.52,26,107.5,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B20,,200,6.48,64,119,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B20,,200,6.08,25.6,115,B20,YYYY-00-DD 00:00:SS,"Bench  No. 218, Pit-1",115,10.5,3,4,6,Nil,2.5,68,205,68,Blasting with reduced burden and spacing
+B21,,445,0.968,64,109.5,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B21,,477,0.95,>100,105.5,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B21,,515,<0.8, , ,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B21,,608,0.58,57,103.5,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B21,,400,1.77,22.3,120,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B21,,705,<0.5, , ,B21,YYYY-00-DD 00:00:SS,"Bench  No. 4002, Pit-2",115,3,18,3,3,Nil,2.2,8,144,8,Trench blasting with no free face
+B22,,150,5.78,20,114,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B22,,245,5.61,23,120.9,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B22,,292,3.06,20,112,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B22,,405,1.51,19,108.4,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B22,,540,<0.5, , ,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B22,,360,3.14,21.3,115,B22,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,3,4,6.5,One of 0.5 m,2.5,45.75,137.25,24,Blasting with solid decking using Nonel
+B23,,150,4.37,18,112,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B23,,248,3.41,20,116.6,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B23,,296,2.2,18,108.8,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B23,,410,0.81,23,105.5,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B23,,542,<0.5, , ,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B23,,345,2.6,20.5,113,B23,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Blasting with solid decking using Nonel
+B24,,150,4.39,57,117.8,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B24,,250,3.35,24,112,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B24,,300,2.42,43,109.5,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B24,,410,0.7,85,106,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B24,,545,<0.5, , ,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B24,,335,2.46,28.4,113,B24,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7.5,3,4,6.5,One of 0.5 m,2.5,44,132,24,Air deck blasting with Nonel
+B25,,160,5.73,57,113.1,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B25,,263,4.5,57,122.1,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B25,,310,3.48,57,116.9,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B25,,420,0.89,47,109.9,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B25,,545,<0.5, , ,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B25,,315,3.26,39.4,115,B25,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,7,3,4,6.5,Nil,2.5,40,120,40,Conventional blasting pattern
+B26,,164,2.8,51,105.5,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B26,,269,2.5,57,113.8,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B26,,315,2.32,37,109.5,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B26,,425,0.57,73,101.9,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B26,,553,<0.5, , ,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B26,,300,2.34,34.1,115,B26,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,6.5,3,4,6.5,Nil,2.5,37,111,37,Conventional blasting pattern
+B27,,160,12.4,28,120.1,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B27,,250,8.84,23,115.2,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B27,,310,2.79,64,115.6,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B27,,350,2.62,20,112.3,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B27,,247,6.38,32,118,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B27,,600,1.69,12.2,111,B27,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,One of 0.5 m,2.5,63,252,63,Air deck blasting with Detonating Fuse
+B28,,180,12,21,115.9,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B28,,275,7.62,43,109.9,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B28,,325,4.44,28,107.5,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B28,,365,3.03,39,109.5,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B28,,240,6.99,36.6,113,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B28,,625,1.21,13.8,105,B28,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,11,4,4,6.5,Nil,3,63,252,63,Conventional blasting pattern
+B29,,230,4.26,21,110.9,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B29,,315,2.91,20,106.5,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B29,,375,2.67,13,102.8,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B29,,400,1.67,39,106,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B29,,252,4.19,15.5,114,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B29,,680,1.65,11.9,107,B29,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,9,4,4,6.5,Nil,2.5,54,270,54,Conventional blasting pattern
+B30,,340,5.25,19,115.4,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B30,,425,3.49,20,111.5,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B30,,480,2.02,17,112,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B30,,515,2.01,26,108.4,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B30,,312,3.9,26.9,111,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B30,,795,<1.0, , ,B30,YYYY-00-DD 00:00:SS,"Bench  No. 3002, Pit-2",115,8,9,4,6.5,Nil,2.5,45,409.5,45,Conventional blasting pattern
+B31,,645,0.937,28.8,115.6,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B31,,685,0.841,17,115.6,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B31,,712,<1.00, , ,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B31,,753,0.803,31.3,112.8,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B31,,832,<0.5, , ,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B31,,937,<0.5, , ,B31,YYYY-00-DD 00:00:SS,"Bench  No. 3001, Pit-2",115,11,4,4.5,7,One of 0.75 m,2.5,70,280,36,Blasting with in-hole delay
+B32,,169,17.7,72.1,122.9,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B32,,228,7.35,17,121.6,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B32,,267,5.33,57.1,116.1,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B32,,315,4.06,51.2,118,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B32,,409,2.39,60.5,113.3,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B32,,339,7.58,46.5,112,B32,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.5,4,4,6,Nil,2.5,35.25,141,35.25,Conventional blasting with single row
+B33,,160,14.1,70.6,120,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B33,,220,6.81,23.3,116.9,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B33,,260,4.39,34.1,113,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B33,,308,3.3,37.9,112.2,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B33,,404,1.28,75.6,116.9,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B33,,358,4.71,64,108.4,B33,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,31.25,125,31.25,Conventional blasting with one hole in 2nd row
+B34,,150,10.4,66.3,115,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B34,,210,5.6,23.4,116.4,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B34,,250,4.24,128,114,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B34,,300,2.42,56.6,110,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B34,,396,1.2,79.4,108,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B34,,377,3.18,85.3,104.9,B34,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,29,116,29,Conventional blasting with line drilling holes
+B35,,148,11,65.5,105,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B35,,208,5.13,25.6,119.1,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B35,,248,2.47,65.8,116.9,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B35,,298,2.33,170.7,110.9,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B35,,396,1.06,63.9,113,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B35,,400,1.97,102.4,107.5,B35,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,3.5,5.5,Nil,3,27.69,110.75,29,Blasting with reduced burden and spacing
+B36,,145,10.9,68,110,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B36,,205,6.4,27.3,116.9,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B36,,244,3.07,102.4,115.6,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B36,,295,2.79,39.5,111,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B36,,391,0.925,14.6,108.4,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B36,,413,2.44,51.2,105.5,B36,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,4,4,6,Nil,2.5,28.25,113,28.25,Blasting with changed orientation of face
+B37,,204,3.68,80.5,109,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B37,,250,2.22,17.4,115.6,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B37,,284,1.31,11.4,108.8,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B37,,325,1.28,28.4,111,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B37,,410,0.773,11.4,104.2,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B37,,245,5.08,51.2,110,B37,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,53,106,53,Blasting with in-hole delay
+B38,,216,1.89,73.1,112,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B38,,261,0.953,17.1,109.5,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B38,,296,<1.0, , ,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B38,,337,0.898,42.4,107,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B38,,422,<0.5, , ,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B38,,232,2.21,42.7,108,B38,YYYY-00-DD 00:00:SS,"Bench  No. 1004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50,100,53,Blasting with in-hole delay
+B39,,187,5.38,29.3,112,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B39,,226,3.18,30.1,110,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B39,,276,2.5,34.6,108,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B39,,375,0.813,16.6,103.5,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B39,,242,2.33,53.3,109.5,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B39,,432,<1.0, , ,B39,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,4,6,Nil,2.5,32.33,64.65,32.4,Conventional blasting with single row
+B40,,178,5.03,23.4,116.9,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B40,,217,2.39,28.4,113,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B40,,268,2.35,34.9,110.9,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B40,,365,0.554,16.4,107,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B40,,245,2.44,57.3,112,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B40,,435,<1.0, , ,B40,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6,2,3,4.5,Nil,3,27.25,54.5,27.25,Blasting with reduced burden and spacing
+B41,,193,8.08,18.1,115.6,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B41,,229,6.2,56.9,111,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B41,,279,3.97,36.6,108,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B41,,375,1.26,14.5,104.2,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B41,,282,2.27,54,116.9,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B41,,472,1.73,20.5,110,B41,YYYY-00-DD 00:00:SS,"Bench  No. 3004, Pit-2",115,6.0-7.5,5,4,6,Nil,2.5,35.4,177,40.25,Conventional blasting with single row
+B42,,418,2.51,23.4,115.6,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B42,,435,2.52,23.3,114,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B42,,465,2.11,34,112.3,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B42,,533,0.976,17.4,108.8,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B42,,579,1.4,22.9,116.9,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B42,,769,<1.0, , ,B42,YYYY-00-DD 00:00:SS,"Bench  No. 3005, Pit-2",115,7.5,4,4,6,Nil,2.5,42.25,166,42.25,Conventional blasting with single row
+B43,,454,1.16,15.9,114,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B43,,466,1.14,30.1,111,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B43,,492,1.16,64.3,108.4,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B43,,552,0.568,12.9,106.5,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B43,,629,<0.5 ,,,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B43,,819,<1.0 ,,,B43,YYYY-00-DD 00:00:SS,"Bench  No. 2005, Pit-2",115,8.5,4,4,6,Nil,3,49.25,197,49.25,Conventional blasting with single row
+B44,,167,3.18,18.8,109.5,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B44,,198,2.86,73.1,105,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B44,,246,1.25,20.6,101,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B44,,340,0.582,10,97.5,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B44,,296,0.778,55.6,109.5,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B44,,485,<1.0 ,,,B44,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8,2,3,4.5,One of 1.5 m,3,34,68,19,Blasting with reduced burden and spacing
+B45,,170,5.05,50.3,115.6,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
+B45,,202,4.55,30.1,112,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
+B45,,250,2.91,36.5,111.2,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
+B45,,343,1.31,14.4,104.2,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
+B45,,306,1.3,48.6,115.6,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
+B45,,495,<1.0 ,,,B45,YYYY-00-DD 00:00:SS,"Bench  No. 2004, Pit-2",115,8.5,2,4,6,One of 0.5 m,2.5,50.5,101,34,Conventional blasting with single row
