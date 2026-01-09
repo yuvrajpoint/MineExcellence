@@ -6,7 +6,8 @@ import pandas as pd
 from utils import graph
 
 app = Flask(__name__)
-CORS(app, resources={r"/predict": {"origins": "http://localhost:5173"}})
+# CORS(app, resources={r"/predict": {"origins": "http://localhost:5173"}})
+CORS(app, resources={r"/predict": {"origins": "https://mine-excellence-msn00abr8-yuvrajpoints-projects.vercel.app/"}})
 
 
 model = joblib.load("/Users/yuvraj/Downloads/MineExcellence/ppv_rf_model.pkl")
